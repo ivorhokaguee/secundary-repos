@@ -1,0 +1,27 @@
+*{
+    margin:0 auto;
+    text-align: center;
+}
+
+body{
+    background-image: url(imagens/abacaxi.jpg);
+    background-position: cover;
+    color:#43e0f2
+}
+
+.chatbox {
+    margin-top: 15%;
+    background: #222222d0;
+    padding: 30px;
+    border-radius: 10px;
+    border: solid 3px #d85da9;
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 0 45px rgb(240, 0, 230);
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+
+button{background-color:#43e0f2 ; border-color: #ffc6ff;margin-top: 5px;}
